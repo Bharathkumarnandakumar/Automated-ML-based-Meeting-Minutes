@@ -1,0 +1,2 @@
+cd C:\Program Files\MongoDB\Server\4.2\bin
+mongofiles --db meeting_audios put "C:\Users\bhara\Downloads\mix_52m36s.wav"
